@@ -1,0 +1,3 @@
+TYPE=eth
+BOOTPROTO=
+CONFIG_IPV4=yes
